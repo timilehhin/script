@@ -1,5 +1,5 @@
 let firsCard = 10
-let secondCard = 4
+let secondCard = 11
 let sum = firsCard + secondCard 
 let hasblackjack = false
 let isAlive = true
