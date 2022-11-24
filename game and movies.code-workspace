@@ -1,0 +1,16 @@
+{
+    "folders": [
+        {
+            "path": "."
+        },
+        {
+            "path": "../calculator"
+        },
+        {
+            "path": "../PyClass"
+        }
+    ],
+    "settings": {
+        "liveServer.settings.multiRootWorkspaceName": "javascript folder"
+    }
+}
