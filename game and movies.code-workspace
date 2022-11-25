@@ -11,6 +11,6 @@
         }
     ],
     "settings": {
-        "liveServer.settings.multiRootWorkspaceName": "javascript folder"
+        "liveServer.settings.multiRootWorkspaceName": "calculator"
     }
 }
